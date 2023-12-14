@@ -1,4 +1,4 @@
-module DocKV
+module github.com/0xjeffro/DocKV
 
 go 1.19
 
